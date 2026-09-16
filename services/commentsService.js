@@ -40,3 +40,4 @@ async function addComment(postId, userId, body) {
 module.exports = {
     addComment
 };
+//comments

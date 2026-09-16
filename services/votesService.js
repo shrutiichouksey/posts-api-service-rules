@@ -23,3 +23,4 @@ async function castVote(postId, userId) {
 module.exports = {
     castVote
 };
+//votes

@@ -27,3 +27,4 @@ async function editPost(postId, userId, changes) {
 module.exports = {
     editPost
 };
+//postId, userId, changes
